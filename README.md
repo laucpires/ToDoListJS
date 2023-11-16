@@ -1,9 +1,9 @@
 # ToDoLau
 
 ## Solicitação
-- Ele deverá ser desenvolvido utilizando HTML, CSS, JS e PHP somente; (sem banco de dados);
-- O sistema deverá permitir que o usuário cadastre n atividades para compor a sua lista de tarefas;
-- Após o preenchimento de todas as atividades, o usuário deve clicar no botão de Confirmação para armazenar a Lista de tarefas;
+- Deverá ser desenvolvido utilizando HTML, CSS, JS e PHP somente (sem banco de dados);
+- O sistema deverá permitir que o usuário cadastre atividades para compor a sua lista de tarefas;
+- Após o preenchimento de todas as atividades, o usuário deve clicar no botão de confirmação para armazenar a lista de tarefas;
 - Após clicar no botão de confirmação, o sistema deverá exibir a lista que foi criada na tela e disponibilizar um botão para efetuar o download desta lista no formato .csv (texto separado por ,);
 
 - Os campos necessário para cada atividade são:
