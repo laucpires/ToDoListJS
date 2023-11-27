@@ -6,7 +6,7 @@
 - Após o preenchimento de todas as atividades, o usuário deve clicar no botão de confirmação para armazenar a lista de tarefas;
 - Após clicar no botão de confirmação, o sistema deverá exibir a lista que foi criada na tela e disponibilizar um botão para efetuar o download desta lista no formato .csv (texto separado por ,).
 
-- Os campos necessário para cada atividade são:
+- Os campos necessários para cada atividade são:
   - Descrição da atividade (com no máximo 250 caracteres);
   - Data para conclusão;
   - O sistema não pode permitir que o usuário cadastre uma lista de tarefas vazia (sem nenhuma atividade);
