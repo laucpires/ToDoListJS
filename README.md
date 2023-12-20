@@ -1,4 +1,4 @@
-# ToDoLau
+# To Do List priorizando o JavaScript
 
 ## Solicitação
 - Deverá ser desenvolvido utilizando HTML, CSS, JS e PHP somente (sem banco de dados);
